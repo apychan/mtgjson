@@ -1,11 +1,11 @@
 "use strict";
 /*global setImmediate: true*/
 
-var base = require("xbase"),
-	fs = require("fs"),
-	shared = require("shared"),
-	path = require("path"),
-	tiptoe = require("tiptoe");
+var base = require("@Sembiance/xbase");
+var fs = require("fs");
+var shared = require("../shared/shared");
+var path = require("path");
+var tiptoe = require("tiptoe");
 
 if (require.main == module) {
 	shared.getSetsToDo().serialForEach(processSet, function(err) {

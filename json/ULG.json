@@ -2468,21 +2468,18 @@
       "originalText": "Return target creature to owner's hand. Untap up to two lands.",
       "originalType": "Instant",
       "printings": [
-        "ULG"
+        "ULG",
+        "DDS"
       ],
       "rarity": "Common",
       "rulings": [
         {
           "date": "2004-10-04",
-          "text": "You can untap another player's lands."
-        },
-        {
-          "date": "2004-10-04",
-          "text": "This does not target the lands."
-        },
-        {
-          "date": "2004-10-04",
           "text": "You can untap 0, 1, or 2 lands."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "You choose which lands to untap as the triggered ability resolves. They aren’t targeted, and they don’t have to be lands that you control."
         }
       ],
       "text": "Return target creature to its owner's hand. Untap up to two lands.",

@@ -3894,7 +3894,8 @@
       "originalType": "Instant",
       "printings": [
         "ZEN",
-        "MM3"
+        "MM3",
+        "MPS_AKH"
       ],
       "rarity": "Common",
       "text": "Counter target noncreature spell unless its controller pays {2}.",
@@ -9304,6 +9305,7 @@
         "ODY",
         "TSB",
         "pGPX",
+        "DDS",
         "MM3"
       ],
       "rarity": "Rare",
@@ -9853,6 +9855,7 @@
         "DDD",
         "ARC",
         "CMD",
+        "DDS",
         "C13",
         "DD3_EVG",
         "DD3_GVL",
@@ -12761,6 +12764,7 @@
       "printings": [
         "DDJ",
         "RTR",
+        "DDS",
         "C15",
         "MM3"
       ],
@@ -12772,11 +12776,11 @@
         },
         {
           "date": "2017-03-14",
-          "text": "Goblin Electromancer can't reduce colored mana costs or {C} in the cost of instant or sorcery spells."
+          "text": "Goblin Electromancer can’t reduce colored mana costs or {C} in the cost of instant or sorcery spells."
         },
         {
           "date": "2017-03-14",
-          "text": "If there are additional costs to cast a spell, such as a kicker cost or a cost imposed by another effect (such as the one imposed by Thalia, Guardian of Thraben's ability), apply those increases before applying cost reductions."
+          "text": "If there are additional costs to cast a spell, such as a kicker cost or a cost imposed by another effect (such as the one imposed by Thalia, Guardian of Thraben’s ability), apply those increases before applying cost reductions."
         },
         {
           "date": "2017-03-14",
@@ -15946,13 +15950,14 @@
       "power": "2",
       "printings": [
         "GTC",
+        "DDS",
         "MM3"
       ],
       "rarity": "Common",
       "rulings": [
         {
           "date": "2017-03-14",
-          "text": "Burning-Tree Emissary's ability isn't a mana ability. It uses the stack and can be responded to."
+          "text": "Burning-Tree Emissary’s ability isn’t a mana ability. It uses the stack and can be responded to."
         }
       ],
       "subtypes": [

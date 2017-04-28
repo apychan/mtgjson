@@ -2282,13 +2282,14 @@
       "originalText": "Target player takes an extra turn after this one. Shuffle Beacon of Tomorrows into its owner's library.",
       "originalType": "Sorcery",
       "printings": [
-        "5DN"
+        "5DN",
+        "DDS"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2007-07-15",
-          "text": "If a Beacon is countered, it's put into its owner's graveyard, not shuffled into the library."
+          "text": "If a Beacon is countered, it’s put into its owner’s graveyard, not shuffled into the library."
         }
       ],
       "text": "Target player takes an extra turn after this one. Shuffle Beacon of Tomorrows into its owner's library.",
@@ -5814,13 +5815,14 @@
       "originalType": "Instant",
       "printings": [
         "5DN",
-        "10E"
+        "10E",
+        "DDS"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2007-07-15",
-          "text": "If a Beacon is countered, it's put into its owner's graveyard, not shuffled into the library."
+          "text": "If a Beacon is countered, it’s put into its owner’s graveyard, not shuffled into the library."
         }
       ],
       "text": "Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.",

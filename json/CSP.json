@@ -3237,17 +3237,18 @@
       "originalText": "Whenever an opponent plays a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.",
       "originalType": "Enchantment",
       "printings": [
-        "CSP"
+        "CSP",
+        "MPS_AKH"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
           "date": "2006-07-15",
-          "text": "If an opponent casts a spell with X in its mana cost, the converted mana cost of that spell takes the value of X into account. If you reveal a card with X in its mana cost, X is 0. For example, if your opponent casts Blaze with X=1, Counterbalance will counter that spell if you reveal a card with converted mana cost 2, but it won't counter that spell if you reveal a Blaze of your own."
+          "text": "If an opponent casts a spell with X in its mana cost, the converted mana cost of that spell takes the value of X into account. If you reveal a card with X in its mana cost, X is 0. For example, if your opponent casts Blaze with X=1, Counterbalance will counter that spell if you reveal a card with converted mana cost 2, but it won’t counter that spell if you reveal a Blaze of your own."
         },
         {
-          "date": "2006-07-15",
-          "text": "If an opponent casts half of a split card (for example, Hit), and you reveal a split card where half of it has the same converted mana cost (for example, Hit/Run or Stand/Deliver), Counterbalance will counter the spell."
+          "date": "2017-04-18",
+          "text": "If an opponent casts half of a split card (for example, Hit), it won’t be countered if you reveal that same split card. The converted mana cost of a split card is determined by the combined mana cost of its two halves, but the converted mana cost of Hit is determined using only that half’s mana cost."
         }
       ],
       "text": "Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.",
@@ -9315,17 +9316,14 @@
       "originalType": "Legendary Creature — Human Lord",
       "power": "3",
       "printings": [
-        "CSP"
+        "CSP",
+        "DDS"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2006-07-15",
-          "text": "Each creature with at least one of those subtypes gets +2/+2 from Lovisa Coldeyes' ability, regardless of how many of those subtypes it has. For example, a 3/3 Mistform Ultimus would become 5/5, not 9/9."
-        },
-        {
-          "date": "2007-10-01",
-          "text": "Does not give herself a bonus unless she somehow gains the creature type Warrior or Berserker."
+          "text": "Each creature with at least one of those subtypes gets +2/+2 from Lovisa Coldeyes’ ability, regardless of how many of those subtypes it has. For example, a 3/3 Mistform Ultimus would become 5/5, not 9/9."
         }
       ],
       "subtypes": [

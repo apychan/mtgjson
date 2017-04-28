@@ -1026,7 +1026,8 @@
         "ME3",
         "PD2",
         "VMA",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Common",
       "rulings": [
@@ -1044,7 +1045,7 @@
         },
         {
           "date": "2016-06-08",
-          "text": "As Chain Lightning resolves, the targeted player or the controller of the targeted creature may copy it. The copy has the same text, target, and color of the resolving spell, though the player who's copying it may choose a new target for it. Once that copy is created (or not), the first Chain Lightning has finished resolving and leaves the stack."
+          "text": "As Chain Lightning resolves, the targeted player or the controller of the targeted creature may copy it. The copy has the same text, target, and color of the resolving spell, though the player who’s copying it may choose a new target for it. Once that copy is created (or not), the first Chain Lightning has finished resolving and leaves the stack."
         },
         {
           "date": "2016-06-08",
@@ -1052,11 +1053,11 @@
         },
         {
           "date": "2016-06-08",
-          "text": "The copy of Chain Lightning is created on the stack, so it's not cast. Abilities that trigger when a player casts a spell won't trigger. Players may respond to that spell before it resolves."
+          "text": "The copy of Chain Lightning is created on the stack, so it’s not cast. Abilities that trigger when a player casts a spell won’t trigger. Players may respond to that spell before it resolves."
         },
         {
           "date": "2016-06-08",
-          "text": "If the targeted creature or player is an illegal target when Chain Lightning tries to resolve, the spell is countered. It can't be copied."
+          "text": "If the targeted creature or player is an illegal target when Chain Lightning tries to resolve, the spell is countered. It can’t be copied."
         }
       ],
       "text": "Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay {R}{R}. If the player does, he or she may copy this spell and may choose a new target for that copy.",
@@ -1916,6 +1917,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -2041,9 +2046,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -2062,8 +2067,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -2115,6 +2120,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -2135,7 +2141,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2163,6 +2170,10 @@
       "imageName": "mountain2",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -2289,9 +2300,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -2310,8 +2321,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -2363,6 +2374,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -2383,7 +2395,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2411,6 +2424,10 @@
       "imageName": "mountain3",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -2537,9 +2554,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -2558,8 +2575,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -2611,6 +2628,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -2631,7 +2649,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2659,6 +2678,10 @@
       "imageName": "mountain4",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -2785,9 +2808,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -2806,8 +2829,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -2859,6 +2882,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -2879,7 +2903,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [

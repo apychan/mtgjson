@@ -1977,6 +1977,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -2016,13 +2020,14 @@
         "DDO",
         "MM2",
         "ORI",
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2015-06-22",
-          "text": "Giving a creature flying after it's already been blocked won't change or undo that block. If you want the flying to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
+          "date": "2017-04-18",
+          "text": "Giving a creature flying after it’s already been blocked won’t change or undo that block. If you want to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
         }
       ],
       "text": "Target creature gets +2/+2 and gains flying until end of turn.",
@@ -3466,7 +3471,8 @@
         "pMPR",
         "LRW",
         "MMA",
-        "MM2"
+        "MM2",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -3476,7 +3482,7 @@
         },
         {
           "date": "2013-06-07",
-          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won't draw a card."
+          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won’t draw a card."
         }
       ],
       "text": "Choose two —\n• Counter target spell.\n• Return target permanent to its owner's hand.\n• Tap all creatures your opponents control.\n• Draw a card.",
@@ -9056,6 +9062,7 @@
       "power": "3",
       "printings": [
         "M12",
+        "DDS",
         "DDL",
         "MM2"
       ],
@@ -12331,6 +12338,7 @@
         "HOP",
         "DPA",
         "M12",
+        "DDS",
         "TPR",
         "MM2",
         "C15",
@@ -12344,7 +12352,7 @@
         },
         {
           "date": "2004-10-04",
-          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+          "text": "Because the “search” requires you to find a card with certain characteristics, you don’t have to find the card if you don’t want to."
         }
       ],
       "text": "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
@@ -18580,6 +18588,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -18643,7 +18655,8 @@
         "BFZ",
         "C15",
         "CN2",
-        "C16"
+        "C16",
+        "AKH"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",

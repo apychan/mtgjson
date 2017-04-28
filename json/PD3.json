@@ -935,7 +935,8 @@
         "pJGP",
         "ODY",
         "PD3",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "text": "Search your library for a card and put that card into your graveyard. Then shuffle your library.",
@@ -1611,6 +1612,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -1756,8 +1761,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -1830,7 +1835,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -1858,6 +1864,10 @@
       "imageName": "swamp2",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -2004,8 +2014,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -2078,7 +2088,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2106,6 +2117,10 @@
       "imageName": "swamp3",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -2252,8 +2267,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -2326,7 +2341,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -2354,6 +2370,10 @@
       "imageName": "swamp4",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -2500,8 +2520,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -2574,7 +2594,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [

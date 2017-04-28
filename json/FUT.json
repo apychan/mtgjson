@@ -1977,6 +1977,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -2006,29 +2010,27 @@
       "originalType": "Creature — Bird Wizard",
       "power": "2",
       "printings": [
-        "FUT"
+        "FUT",
+        "AKH",
+        "MPS_AKH"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
-          "date": "2007-05-01",
-          "text": "This checks which player is searching a library, not which library is being searched."
+          "date": "2017-04-18",
+          "text": "Each search works exactly the same as normal except that the opponent doing the searching sees only the top four cards of that library. He or she can’t look at the other cards in that library at all. Cards not in the top four cards of the library can’t be found in the search, even if they’re identifiable in some manner."
         },
         {
-          "date": "2007-05-01",
-          "text": "The search works exactly the same as normal except that the player doing the searching sees only the top four cards of that library. The player can't look at the other cards in that library at all. Cards not in the top four cards of the library can't be found in the search, even if they're identifiable in some manner."
+          "date": "2017-04-18",
+          "text": "For effects that check whether a player searched a library, searching the top four cards of that library counts as searching that library."
         },
         {
-          "date": "2007-05-01",
-          "text": "After the search is complete, if the effect has the player shuffle that library, the entire library is shuffled."
+          "date": "2017-04-18",
+          "text": "If an effect uses the word “search” once but allows an opponent to search for multiple cards, the top four cards remain the same throughout the entire search. Finding one card won’t cause the fifth card to be included in the search."
         },
         {
-          "date": "2007-05-01",
-          "text": "If the player is searching the top four cards of his or her library, the player may cast a Panglacial Wurm located there."
-        },
-        {
-          "date": "2007-05-01",
-          "text": "Shadow of Doubt prevents libraries from being searched at all, so its effect trumps this one."
+          "date": "2017-04-18",
+          "text": "After the search is complete, the entire library is shuffled."
         }
       ],
       "subtypes": [
@@ -4558,13 +4560,14 @@
       "originalType": "Instant",
       "printings": [
         "FUT",
-        "MMA"
+        "MMA",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2013-06-07",
-          "text": "Although originally printed with a characteristic-defining ability that defined its color, this card now has a color indicator. This color indicator can't be affected by text-changing effects (such as the one created by Crystal Spray), although color-changing effects can still overwrite it."
+          "text": "Although originally printed with a characteristic-defining ability that defined its color, this card now has a color indicator. This color indicator can’t be affected by text-changing effects (such as the one created by Crystal Spray), although color-changing effects can still overwrite it."
         }
       ],
       "text": "Counter target spell.\nAt the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.",
@@ -12027,6 +12030,7 @@
       "printings": [
         "FUT",
         "MOR",
+        "DDS",
         "CNS"
       ],
       "rarity": "Uncommon",
@@ -17086,37 +17090,38 @@
       "power": "2",
       "printings": [
         "FUT",
+        "DDS",
         "MMA"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2013-06-07",
-          "text": "If the spell requires any targets, those targets are chosen when the spell is finally cast, not when it's exiled."
+          "text": "If the spell requires any targets, those targets are chosen when the spell is finally cast, not when it’s exiled."
         },
         {
           "date": "2013-06-07",
-          "text": "If the first triggered ability of suspend (the one that removes time counters) is countered, no time counter is removed. The ability will trigger again during the card's owner's next upkeep."
+          "text": "If the first triggered ability of suspend (the one that removes time counters) is countered, no time counter is removed. The ability will trigger again during the card’s owner’s next upkeep."
         },
         {
           "date": "2013-06-07",
-          "text": "When the last time counter is removed, the second triggered ability of suspend will trigger. It doesn't matter why the last time counter was removed or what effect removed it."
+          "text": "When the last time counter is removed, the second triggered ability of suspend will trigger. It doesn’t matter why the last time counter was removed or what effect removed it."
         },
         {
           "date": "2013-06-07",
-          "text": "If the second triggered ability of suspend (the one that lets you cast the card) is countered, the card can't be cast. It remains exiled with no time counters on it, and it's no longer suspended."
+          "text": "If the second triggered ability of suspend (the one that lets you cast the card) is countered, the card can’t be cast. It remains exiled with no time counters on it, and it’s no longer suspended."
         },
         {
           "date": "2013-06-07",
-          "text": "As the second triggered ability resolves, you must cast the card if able. Timing restrictions based on the card's type are ignored."
+          "text": "As the second triggered ability resolves, you must cast the card if able. Timing restrictions based on the card’s type are ignored."
         },
         {
           "date": "2013-06-07",
-          "text": "If you can't cast the card, perhaps because there are no legal targets available, it remains exiled with no time counters on it, and it's no longer suspended."
+          "text": "If you can’t cast the card, perhaps because there are no legal targets available, it remains exiled with no time counters on it, and it’s no longer suspended."
         },
         {
           "date": "2013-06-07",
-          "text": "If the spell has any mandatory additional costs, you must pay those if able. However, if an additional cost includes a mana payment, you are forced to pay that cost only if there's enough mana in your mana pool at the time you cast the spell. You aren't forced to activate any mana abilities, although you may do so if you wish."
+          "text": "If the spell has any mandatory additional costs, you must pay those if able. However, if an additional cost includes a mana payment, you are forced to pay that cost only if there’s enough mana in your mana pool at the time you cast the spell. You aren’t forced to activate any mana abilities, although you may do so if you wish."
         },
         {
           "date": "2013-06-07",

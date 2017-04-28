@@ -3086,6 +3086,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -3125,13 +3129,14 @@
         "DDO",
         "MM2",
         "ORI",
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2015-06-22",
-          "text": "Giving a creature flying after it's already been blocked won't change or undo that block. If you want the flying to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
+          "date": "2017-04-18",
+          "text": "Giving a creature flying after it’s already been blocked won’t change or undo that block. If you want to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
         }
       ],
       "text": "Target creature gets +2/+2 and gains flying until end of turn.",
@@ -7688,6 +7693,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
@@ -7739,7 +7748,7 @@
       "rulings": [
         {
           "date": "2009-10-01",
-          "text": "A \"creature spell\" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
+          "text": "A “creature spell” is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
         }
       ],
       "text": "Counter target noncreature spell.",
@@ -28403,6 +28412,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -28466,7 +28479,8 @@
         "BFZ",
         "C15",
         "CN2",
-        "C16"
+        "C16",
+        "AKH"
       ],
       "rarity": "Common",
       "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
@@ -29240,6 +29254,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -29386,8 +29404,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -29456,7 +29474,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29612,6 +29631,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -29758,8 +29781,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -29828,7 +29851,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -29984,6 +30008,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -30130,8 +30158,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -30200,7 +30228,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30356,6 +30385,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -30502,8 +30535,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -30572,7 +30605,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -30728,6 +30762,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -30872,8 +30910,8 @@
         "USG",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -30921,6 +30959,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "THS",
         "C13",
@@ -30941,7 +30980,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31097,6 +31137,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -31241,8 +31285,8 @@
         "USG",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -31290,6 +31334,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "THS",
         "C13",
@@ -31310,7 +31355,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31466,6 +31512,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -31610,8 +31660,8 @@
         "USG",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -31659,6 +31709,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "THS",
         "C13",
@@ -31679,7 +31730,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -31835,6 +31887,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -31979,8 +32035,8 @@
         "USG",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -32028,6 +32084,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "THS",
         "C13",
@@ -32048,7 +32105,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32204,6 +32262,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -32349,8 +32411,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -32423,7 +32485,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32579,6 +32642,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -32724,8 +32791,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -32798,7 +32865,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -32954,6 +33022,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -33099,8 +33171,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -33173,7 +33245,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33329,6 +33402,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -33474,8 +33551,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -33548,7 +33625,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -33704,6 +33782,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -33829,9 +33911,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -33850,8 +33932,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -33903,6 +33985,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -33923,7 +34006,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34079,6 +34163,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -34204,9 +34292,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -34225,8 +34313,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -34278,6 +34366,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -34298,7 +34387,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34454,6 +34544,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -34579,9 +34673,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -34600,8 +34694,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -34653,6 +34747,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -34673,7 +34768,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -34829,6 +34925,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -34954,9 +35054,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -34975,8 +35075,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -35028,6 +35128,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -35048,7 +35149,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35204,6 +35306,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -35349,8 +35455,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -35399,6 +35505,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -35421,7 +35528,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35577,6 +35685,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -35722,8 +35834,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -35772,6 +35884,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -35794,7 +35907,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -35950,6 +36064,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -36095,8 +36213,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -36145,6 +36263,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -36167,7 +36286,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [
@@ -36323,6 +36443,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -36468,8 +36592,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -36518,6 +36642,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -36540,7 +36665,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "subtypes": [

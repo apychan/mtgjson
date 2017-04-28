@@ -3363,27 +3363,11 @@
           "legality": "Legal"
         },
         {
-          "format": "Freeform",
-          "legality": "Legal"
-        },
-        {
           "format": "Invasion Block",
           "legality": "Legal"
         },
         {
           "format": "Legacy",
-          "legality": "Legal"
-        },
-        {
-          "format": "Prismatic",
-          "legality": "Banned"
-        },
-        {
-          "format": "Singleton 100",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tribal Wars Legacy",
           "legality": "Legal"
         },
         {
@@ -3398,7 +3382,8 @@
       "originalText": "As an additional cost to play Diabolic Intent, sacrifice a creature.\nSearch your library for a card and put that card into your hand. Then shuffle your library.",
       "originalType": "Sorcery",
       "printings": [
-        "PLS"
+        "PLS",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "rulings": [

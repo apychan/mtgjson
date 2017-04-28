@@ -8326,7 +8326,8 @@
       "power": "4",
       "printings": [
         "EVE",
-        "DPA"
+        "DPA",
+        "DDS"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -11929,7 +11930,8 @@
       "power": "4",
       "printings": [
         "EVE",
-        "CMD"
+        "CMD",
+        "DDS"
       ],
       "rarity": "Uncommon",
       "subtypes": [

@@ -7021,7 +7021,7 @@
       "rulings": [
         {
           "date": "2016-09-20",
-          "text": "If one target permanent becomes an illegal target, the other will be returned to its owner's hand. If both targets become illegal, Aether Tradewinds will be countered."
+          "text": "If one target permanent becomes an illegal target, the other will be returned to its owner’s hand. If both targets become illegal, Aether Tradewinds will be countered."
         }
       ],
       "text": "Return target permanent you control and target permanent you don't control to their owners' hands.",
@@ -8408,21 +8408,22 @@
       "printings": [
         "pJGP",
         "SCG",
-        "CNS"
+        "CNS",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2004-10-04",
-          "text": "An activated ability has a \"Cost: Effect\" format. Look for the colon. A triggered ability starts with \"when\", \"whenever\", or \"at\"."
+          "text": "An activated ability has a “Cost: Effect” format. Look for the colon. A triggered ability starts with “when”, “whenever”, or “at”."
         },
         {
           "date": "2004-10-04",
-          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can't be targeted."
+          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can’t be targeted."
         },
         {
           "date": "2004-10-04",
-          "text": "It can target delayed triggered abilities. For example, a card that says \"Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.\" triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the \"at the beginning of the end step\" trigger when it is placed on the stack at end of turn."
+          "text": "It can target delayed triggered abilities. For example, a card that says “Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.” triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the “at the beginning of the end step” trigger when it is placed on the stack at end of turn."
         }
       ],
       "text": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
@@ -10561,6 +10562,7 @@
       "printings": [
         "FUT",
         "MOR",
+        "DDS",
         "CNS"
       ],
       "rarity": "Uncommon",

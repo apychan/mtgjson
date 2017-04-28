@@ -1641,7 +1641,8 @@
         "10E",
         "C13",
         "V14",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2006-09",
@@ -2710,6 +2711,7 @@
         "DDD",
         "ARC",
         "CMD",
+        "DDS",
         "C13",
         "DD3_EVG",
         "DD3_GVL",
@@ -3029,7 +3031,8 @@
         "pMPR",
         "LRW",
         "MMA",
-        "MM2"
+        "MM2",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3040,7 +3043,7 @@
         },
         {
           "date": "2013-06-07",
-          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won't draw a card."
+          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won’t draw a card."
         }
       ],
       "source": "Magic Player Rewards program reward",
@@ -3645,6 +3648,7 @@
         "HOP",
         "DPA",
         "M12",
+        "DDS",
         "TPR",
         "MM2",
         "C15",
@@ -3659,7 +3663,7 @@
         },
         {
           "date": "2004-10-04",
-          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+          "text": "Because the “search” requires you to find a card with certain characteristics, you don’t have to find the card if you don’t want to."
         }
       ],
       "source": "Magic Player Rewards program reward",
@@ -3733,6 +3737,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
@@ -3782,7 +3790,7 @@
       "rulings": [
         {
           "date": "2009-10-01",
-          "text": "A \"creature spell\" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
+          "text": "A “creature spell” is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
         }
       ],
       "source": "Magic Player Rewards program reward",
@@ -4045,6 +4053,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -4100,7 +4112,8 @@
         "M14",
         "M15",
         "KTK",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2010",

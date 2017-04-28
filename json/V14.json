@@ -915,7 +915,8 @@
         "10E",
         "C13",
         "V14",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Mythic Rare",
       "text": "Destroy all creatures. They can't be regenerated.",

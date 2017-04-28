@@ -10208,7 +10208,8 @@
       "printings": [
         "pGPX",
         "ARB",
-        "MMA"
+        "MMA",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -10218,15 +10219,15 @@
         },
         {
           "date": "2009-05-01",
-          "text": "The name of a creature token is the same as its creature types unless the token is a copy of another creature or the effect that created the token specifically gives it a different name. For example, a 1/1 Soldier creature token is named \"Soldier.\""
+          "text": "The name of a creature token is the same as its creature types unless the token is a copy of another creature or the effect that created the token specifically gives it a different name. For example, a 1/1 Soldier creature token is named “Soldier.”"
         },
         {
           "date": "2009-05-01",
-          "text": "A face-down creature has no name, so it doesn't have the same name as anything else."
+          "text": "A face-down creature has no name, so it doesn’t have the same name as anything else."
         },
         {
           "date": "2013-07-01",
-          "text": "If Maelstrom Pulse resolves but the targeted permanent isn't destroyed (perhaps because it regenerates or has indestructible), all other permanents with the same name as it will still be destroyed (unless they also have indestructible."
+          "text": "If Maelstrom Pulse resolves but the targeted permanent isn’t destroyed (perhaps because it regenerates or has indestructible), all other permanents with the same name as it will still be destroyed (unless they also have indestructible."
         }
       ],
       "text": "Destroy target nonland permanent and all other permanents with the same name as that permanent.",

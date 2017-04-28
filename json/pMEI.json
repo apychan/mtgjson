@@ -10882,13 +10882,14 @@
       "power": "4",
       "printings": [
         "pMEI",
+        "DDS",
         "FRF"
       ],
       "rarity": "Special",
       "rulings": [
         {
           "date": "2014-11-24",
-          "text": "Any spell you cast that doesn't have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause prowess to trigger. Playing a land also won't cause prowess to trigger."
+          "text": "Any spell you cast that doesn’t have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won’t cause prowess to trigger. Playing a land also won’t cause prowess to trigger."
         },
         {
           "date": "2014-11-24",
@@ -10900,7 +10901,7 @@
         },
         {
           "date": "2014-11-24",
-          "text": "Once it triggers, prowess isn't connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
+          "text": "Once it triggers, prowess isn’t connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
         }
       ],
       "source": "Intro Pack Promo (Fate Reforged)",
@@ -12298,6 +12299,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -12358,7 +12363,8 @@
         "BFZ",
         "C15",
         "CN2",
-        "C16"
+        "C16",
+        "AKH"
       ],
       "rarity": "Special",
       "source": "Tarkir Dragonfury Promo",

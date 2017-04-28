@@ -3905,6 +3905,7 @@
       "printings": [
         "pJGP",
         "SCG",
+        "DDS",
         "VMA",
         "V16"
       ],
@@ -3920,15 +3921,15 @@
         },
         {
           "date": "2013-06-07",
-          "text": "The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn."
+          "text": "The copies are put directly onto the stack. They aren’t cast and won’t be counted by other spells with storm cast later in the turn."
         },
         {
           "date": "2013-06-07",
-          "text": "Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability."
+          "text": "Spells cast from zones other than a player’s hand and spells that were countered are counted by the storm ability."
         },
         {
           "date": "2013-06-07",
-          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies."
+          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won’t affect the copies."
         },
         {
           "date": "2013-06-07",
@@ -4927,21 +4928,22 @@
       "printings": [
         "pJGP",
         "SCG",
-        "CNS"
+        "CNS",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2004-10-04",
-          "text": "An activated ability has a \"Cost: Effect\" format. Look for the colon. A triggered ability starts with \"when\", \"whenever\", or \"at\"."
+          "text": "An activated ability has a “Cost: Effect” format. Look for the colon. A triggered ability starts with “when”, “whenever”, or “at”."
         },
         {
           "date": "2004-10-04",
-          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can't be targeted."
+          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can’t be targeted."
         },
         {
           "date": "2004-10-04",
-          "text": "It can target delayed triggered abilities. For example, a card that says \"Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.\" triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the \"at the beginning of the end step\" trigger when it is placed on the stack at end of turn."
+          "text": "It can target delayed triggered abilities. For example, a card that says “Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.” triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the “at the beginning of the end step” trigger when it is placed on the stack at end of turn."
         }
       ],
       "text": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
@@ -5015,21 +5017,22 @@
       "originalType": "Sorcery",
       "printings": [
         "SCG",
+        "DDS",
         "VMA"
       ],
       "rarity": "Common",
       "rulings": [
         {
           "date": "2013-06-07",
-          "text": "The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn."
+          "text": "The copies are put directly onto the stack. They aren’t cast and won’t be counted by other spells with storm cast later in the turn."
         },
         {
           "date": "2013-06-07",
-          "text": "Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability."
+          "text": "Spells cast from zones other than a player’s hand and spells that were countered are counted by the storm ability."
         },
         {
           "date": "2013-06-07",
-          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies."
+          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won’t affect the copies."
         },
         {
           "date": "2013-06-07",
@@ -7245,11 +7248,11 @@
       "layout": "normal",
       "legalities": [
         {
-          "format": "Commander",
+          "format": "Amonkhet Block",
           "legality": "Legal"
         },
         {
-          "format": "Freeform",
+          "format": "Commander",
           "legality": "Legal"
         },
         {
@@ -7257,19 +7260,11 @@
           "legality": "Legal"
         },
         {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
           "format": "Onslaught Block",
-          "legality": "Legal"
-        },
-        {
-          "format": "Prismatic",
-          "legality": "Legal"
-        },
-        {
-          "format": "Singleton 100",
-          "legality": "Legal"
-        },
-        {
-          "format": "Tribal Wars Legacy",
           "legality": "Legal"
         },
         {
@@ -7284,7 +7279,8 @@
       "originalText": "Target player discards two cards.\nCycling {2} ({2}, Discard this card from your hand: Draw a card.)",
       "originalType": "Sorcery",
       "printings": [
-        "SCG"
+        "SCG",
+        "AKH"
       ],
       "rarity": "Common",
       "rulings": [

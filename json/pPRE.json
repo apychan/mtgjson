@@ -6586,6 +6586,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -6730,8 +6734,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -6800,7 +6804,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "source": "Dragon's Maze",
@@ -15640,13 +15645,14 @@
       "power": "4",
       "printings": [
         "pMEI",
+        "DDS",
         "FRF"
       ],
       "rarity": "Special",
       "rulings": [
         {
           "date": "2014-11-24",
-          "text": "Any spell you cast that doesn't have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause prowess to trigger. Playing a land also won't cause prowess to trigger."
+          "text": "Any spell you cast that doesn’t have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won’t cause prowess to trigger. Playing a land also won’t cause prowess to trigger."
         },
         {
           "date": "2014-11-24",
@@ -15658,7 +15664,7 @@
         },
         {
           "date": "2014-11-24",
-          "text": "Once it triggers, prowess isn't connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
+          "text": "Once it triggers, prowess isn’t connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
         }
       ],
       "source": "Fate Reforged",
@@ -21474,6 +21480,7 @@
       "number": "196",
       "printings": [
         "pPRE",
+        "DDS",
         "DTK",
         "C16"
       ],
@@ -21481,15 +21488,11 @@
       "rulings": [
         {
           "date": "2015-02-25",
-          "text": "If the target instant or sorcery card becomes an illegal target before Volcanic Vision resolves, the spell will be countered and none of its effects will happen. No damage will be dealt and Volcanic Vision won't be exiled."
+          "text": "If the target instant or sorcery card becomes an illegal target before Volcanic Vision resolves, the spell will be countered and none of its effects will happen. No damage will be dealt and Volcanic Vision won’t be exiled."
         },
         {
           "date": "2015-02-25",
           "text": "If the target has {X} in its mana cost, X is 0."
-        },
-        {
-          "date": "2015-02-25",
-          "text": "If the target is a split card, damage will be dealt only once to each creature your opponents control. The damage will be equal to the sum of the card's two converted mana costs."
         }
       ],
       "source": "Dragons of Tarkir",

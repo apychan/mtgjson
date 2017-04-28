@@ -485,6 +485,7 @@
       "printings": [
         "pJGP",
         "SCG",
+        "DDS",
         "VMA",
         "V16"
       ],
@@ -500,15 +501,15 @@
         },
         {
           "date": "2013-06-07",
-          "text": "The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn."
+          "text": "The copies are put directly onto the stack. They aren’t cast and won’t be counted by other spells with storm cast later in the turn."
         },
         {
           "date": "2013-06-07",
-          "text": "Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability."
+          "text": "Spells cast from zones other than a player’s hand and spells that were countered are counted by the storm ability."
         },
         {
           "date": "2013-06-07",
-          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies."
+          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won’t affect the copies."
         },
         {
           "date": "2013-06-07",

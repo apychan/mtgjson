@@ -2989,7 +2989,8 @@
       "originalType": "Enchantment",
       "printings": [
         "UDS",
-        "CMD"
+        "CMD",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "text": "{B}, Sacrifice a creature: Destroy target nonblack creature.",

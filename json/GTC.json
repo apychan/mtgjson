@@ -25928,13 +25928,14 @@
       "power": "2",
       "printings": [
         "GTC",
+        "DDS",
         "MM3"
       ],
       "rarity": "Uncommon",
       "rulings": [
         {
           "date": "2017-03-14",
-          "text": "Burning-Tree Emissary's ability isn't a mana ability. It uses the stack and can be responded to."
+          "text": "Burning-Tree Emissary’s ability isn’t a mana ability. It uses the stack and can be responded to."
         }
       ],
       "subtypes": [
@@ -26853,13 +26854,14 @@
       "originalType": "Creature — Human Warrior",
       "power": "3",
       "printings": [
-        "GTC"
+        "GTC",
+        "DDS"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2013-01-24",
-          "text": "Count the number of attacking creatures you control when Rubblebelt Raiders's ability resolves, including Rubblebelt Raiders itself, to determine how many +1/+1 counters to put on it."
+          "text": "Count the number of attacking creatures you control when Rubblebelt Raiders’s ability resolves, including Rubblebelt Raiders itself, to determine how many +1/+1 counters to put on it."
         }
       ],
       "subtypes": [

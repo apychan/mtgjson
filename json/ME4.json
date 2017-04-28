@@ -2682,7 +2682,8 @@
         "VMA",
         "DD3_JVC",
         "TPR",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Common",
       "text": "Counter target spell.",
@@ -4378,7 +4379,8 @@
         "V13",
         "VMA",
         "DD3_DVD",
-        "TPR"
+        "TPR",
+        "MPS_AKH"
       ],
       "rarity": "Common",
       "text": "Add {B}{B}{B} to your mana pool.",

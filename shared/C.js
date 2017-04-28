@@ -23,6 +23,8 @@ Array.prototype.pushAll = function(otherArray) {
   exports.SETS_NOT_ON_GATHERER = ["ATH", "ITP", "DKM", "RQS", "DPA"];
   exports.SETS_WITH_NO_IMAGES = [];
 
+  var KLD = require('./sets/KLD');
+  var AER = require('./sets/AER');
   var DDS = require('./sets/DDS');
   var AKH_SET = require('./sets/AKH');
   var MPS_AKH_SET = require('./sets/MPS_AKH');
@@ -3141,16 +3143,7 @@ Array.prototype.pushAll = function(otherArray) {
       type: "duel deck",
       border: "black"
     },
-    {
-      // http://magic.wizards.com/en/content/kaladesh-information
-      name : "Kaladesh",
-      code : "KLD",
-      releaseDate : "2016-09-30",
-      border : "black",
-      type : "expansion",
-      block : 'Kaladesh',
-      booster : [["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common", "common", "common", "common", "common", "land", "marketing"]
-    },
+    KLD,
     {
       name : "Masterpiece Series: Kaladesh Inventions",
       alternativeNames: [
@@ -3183,15 +3176,7 @@ Array.prototype.pushAll = function(otherArray) {
       border : "black",
       type : "planechase"
     },
-    {
-      name : "Aether Revolt",
-      code : "AER",
-      releaseDate : "2017-01-20",
-      border : "black",
-      block : 'Kaladesh',
-      type : "expansion",
-      booster : [["rare", "mythic rare"], "uncommon", "uncommon", "uncommon", "common", "common", "common", "common", "common", "common","common","common","common","common","land","marketing"]
-    },
+    AER,
     {
       name : "Modern Masters 2017 Edition",
       code : "MM3",

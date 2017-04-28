@@ -2343,11 +2343,19 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
         {
           "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
           "legality": "Legal"
         },
         {
@@ -2368,7 +2376,8 @@
       "originalType": "Instant",
       "printings": [
         "ONS",
-        "VMA"
+        "VMA",
+        "AKH"
       ],
       "rarity": "Common",
       "rulings": [
@@ -2382,7 +2391,23 @@
         },
         {
           "date": "2008-10-01",
-          "text": "The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you’ll draw a card."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "Some cards with cycling have an ability that triggers when you cycle them. These triggered abilities resolve before you draw from the cycling ability."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "Triggered abilities from cycling a card and the cycling ability itself aren’t spells. Effects that interact with spells (such as that of Cancel) won’t affect them."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "You can cycle a card even if it has a triggered ability from cycling that won’t have a legal target. This is because the cycling ability and the triggered ability are separate. This also means that if either ability is countered (with Disallow, for example, or if the triggered ability’s targets have become illegal), the other ability will still resolve."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "There are many important moments in the story, but the most crucial—called “story spotlights”—are shown on cards. You can read more about these events in the official Magic fiction at http://www.mtgstory.com."
         }
       ],
       "text": "You gain 6 life.\nCycling {1}{W} ({1}{W}, Discard this card: Draw a card.)\nWhen you cycle Renewed Faith, you may gain 2 life.",
@@ -3710,7 +3735,8 @@
         "VMA",
         "DD3_JVC",
         "TPR",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Common",
       "text": "Counter target spell.",
@@ -4003,7 +4029,8 @@
         "pJGP",
         "MED",
         "VMA",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -4663,6 +4690,7 @@
       "printings": [
         "pJGP",
         "SCG",
+        "DDS",
         "VMA",
         "V16"
       ],
@@ -4678,15 +4706,15 @@
         },
         {
           "date": "2013-06-07",
-          "text": "The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn."
+          "text": "The copies are put directly onto the stack. They aren’t cast and won’t be counted by other spells with storm cast later in the turn."
         },
         {
           "date": "2013-06-07",
-          "text": "Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability."
+          "text": "Spells cast from zones other than a player’s hand and spells that were countered are counted by the storm ability."
         },
         {
           "date": "2013-06-07",
-          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies."
+          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won’t affect the copies."
         },
         {
           "date": "2013-06-07",
@@ -5614,21 +5642,22 @@
       "originalType": "Sorcery",
       "printings": [
         "SCG",
+        "DDS",
         "VMA"
       ],
       "rarity": "Common",
       "rulings": [
         {
           "date": "2013-06-07",
-          "text": "The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn."
+          "text": "The copies are put directly onto the stack. They aren’t cast and won’t be counted by other spells with storm cast later in the turn."
         },
         {
           "date": "2013-06-07",
-          "text": "Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability."
+          "text": "Spells cast from zones other than a player’s hand and spells that were countered are counted by the storm ability."
         },
         {
           "date": "2013-06-07",
-          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies."
+          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won’t affect the copies."
         },
         {
           "date": "2013-06-07",
@@ -6639,7 +6668,8 @@
         "V13",
         "VMA",
         "DD3_DVD",
-        "TPR"
+        "TPR",
+        "MPS_AKH"
       ],
       "rarity": "Common",
       "text": "Add {B}{B}{B} to your mana pool.",
@@ -8994,7 +9024,8 @@
         "ME3",
         "PD2",
         "VMA",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Common",
       "rulings": [
@@ -9012,7 +9043,7 @@
         },
         {
           "date": "2016-06-08",
-          "text": "As Chain Lightning resolves, the targeted player or the controller of the targeted creature may copy it. The copy has the same text, target, and color of the resolving spell, though the player who's copying it may choose a new target for it. Once that copy is created (or not), the first Chain Lightning has finished resolving and leaves the stack."
+          "text": "As Chain Lightning resolves, the targeted player or the controller of the targeted creature may copy it. The copy has the same text, target, and color of the resolving spell, though the player who’s copying it may choose a new target for it. Once that copy is created (or not), the first Chain Lightning has finished resolving and leaves the stack."
         },
         {
           "date": "2016-06-08",
@@ -9020,11 +9051,11 @@
         },
         {
           "date": "2016-06-08",
-          "text": "The copy of Chain Lightning is created on the stack, so it's not cast. Abilities that trigger when a player casts a spell won't trigger. Players may respond to that spell before it resolves."
+          "text": "The copy of Chain Lightning is created on the stack, so it’s not cast. Abilities that trigger when a player casts a spell won’t trigger. Players may respond to that spell before it resolves."
         },
         {
           "date": "2016-06-08",
-          "text": "If the targeted creature or player is an illegal target when Chain Lightning tries to resolve, the spell is countered. It can't be copied."
+          "text": "If the targeted creature or player is an illegal target when Chain Lightning tries to resolve, the spell is countered. It can’t be copied."
         }
       ],
       "text": "Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay {R}{R}. If the player does, he or she may copy this spell and may choose a new target for that copy.",
@@ -13379,6 +13410,7 @@
       "printings": [
         "pFNM",
         "ODY",
+        "DDS",
         "VMA",
         "EMA"
       ],

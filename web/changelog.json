@@ -1,5 +1,13 @@
 [
   {
+    "version": "3.8.5",
+    "when": "2017-04-28",
+    "changes": [
+      "Fix printings for AKH",
+      "Fix legalities introduced in AKH"
+    ]
+  },
+  {
     "version": "3.8.4",
     "when": "2017-04-22",
     "changes": [

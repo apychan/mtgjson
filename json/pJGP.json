@@ -439,7 +439,8 @@
         "VMA",
         "DD3_JVC",
         "TPR",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2000",
@@ -2706,7 +2707,8 @@
       "printings": [
         "pJGP",
         "APC",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -2978,6 +2980,7 @@
       "printings": [
         "pJGP",
         "SCG",
+        "DDS",
         "VMA",
         "V16"
       ],
@@ -2994,15 +2997,15 @@
         },
         {
           "date": "2013-06-07",
-          "text": "The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn."
+          "text": "The copies are put directly onto the stack. They aren’t cast and won’t be counted by other spells with storm cast later in the turn."
         },
         {
           "date": "2013-06-07",
-          "text": "Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability."
+          "text": "Spells cast from zones other than a player’s hand and spells that were countered are counted by the storm ability."
         },
         {
           "date": "2013-06-07",
-          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies."
+          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won’t affect the copies."
         },
         {
           "date": "2013-06-07",
@@ -3416,7 +3419,8 @@
         "V13",
         "VMA",
         "DD3_DVD",
-        "TPR"
+        "TPR",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
@@ -3552,22 +3556,23 @@
       "printings": [
         "pJGP",
         "SCG",
-        "CNS"
+        "CNS",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2009",
       "rulings": [
         {
           "date": "2004-10-04",
-          "text": "An activated ability has a \"Cost: Effect\" format. Look for the colon. A triggered ability starts with \"when\", \"whenever\", or \"at\"."
+          "text": "An activated ability has a “Cost: Effect” format. Look for the colon. A triggered ability starts with “when”, “whenever”, or “at”."
         },
         {
           "date": "2004-10-04",
-          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can't be targeted."
+          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can’t be targeted."
         },
         {
           "date": "2004-10-04",
-          "text": "It can target delayed triggered abilities. For example, a card that says \"Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.\" triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the \"at the beginning of the end step\" trigger when it is placed on the stack at end of turn."
+          "text": "It can target delayed triggered abilities. For example, a card that says “Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.” triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the “at the beginning of the end step” trigger when it is placed on the stack at end of turn."
         }
       ],
       "source": "Judge reward",
@@ -4870,7 +4875,8 @@
         "pJGP",
         "ODY",
         "PD3",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -6716,7 +6722,8 @@
       "printings": [
         "pJGP",
         "APC",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2007",
@@ -7191,7 +7198,8 @@
         "pJGP",
         "MED",
         "VMA",
-        "EMA"
+        "EMA",
+        "MPS_AKH"
       ],
       "rarity": "Special",
       "releaseDate": "2014",
@@ -7728,6 +7736,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -7872,8 +7884,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -7942,7 +7954,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8009,6 +8022,10 @@
       "imageName": "island",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -8152,8 +8169,8 @@
         "USG",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -8201,6 +8218,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "THS",
         "C13",
@@ -8221,7 +8239,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8288,6 +8307,10 @@
       "imageName": "swamp",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -8432,8 +8455,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -8506,7 +8529,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8573,6 +8597,10 @@
       "imageName": "mountain",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -8697,9 +8725,9 @@
         "LEA",
         "LEB",
         "2ED",
-        "ARN",
         "CED",
         "CEI",
+        "ARN",
         "3ED",
         "4ED",
         "ICE",
@@ -8718,8 +8746,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -8771,6 +8799,7 @@
         "DDJ",
         "RTR",
         "DDK",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -8791,7 +8820,8 @@
         "SOI",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",
@@ -8858,6 +8888,10 @@
       "imageName": "forest",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
@@ -9002,8 +9036,8 @@
         "ATH",
         "6ED",
         "PTK",
-        "S99",
         "pGRU",
+        "S99",
         "MMQ",
         "BRB",
         "pELP",
@@ -9052,6 +9086,7 @@
         "M13",
         "DDJ",
         "RTR",
+        "DDS",
         "M14",
         "DDL",
         "THS",
@@ -9074,7 +9109,8 @@
         "DDR",
         "KLD",
         "C16",
-        "PCA"
+        "PCA",
+        "AKH"
       ],
       "rarity": "Basic Land",
       "releaseDate": "2014",

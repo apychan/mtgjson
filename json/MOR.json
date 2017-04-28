@@ -4756,6 +4756,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
@@ -4807,7 +4811,7 @@
       "rulings": [
         {
           "date": "2009-10-01",
-          "text": "A \"creature spell\" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
+          "text": "A “creature spell” is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
         }
       ],
       "text": "Counter target noncreature spell.",
@@ -9676,6 +9680,7 @@
       "printings": [
         "FUT",
         "MOR",
+        "DDS",
         "CNS"
       ],
       "rarity": "Uncommon",
@@ -12699,7 +12704,8 @@
       "originalType": "Creature — Treefolk Warrior",
       "power": "3",
       "printings": [
-        "MOR"
+        "MOR",
+        "DDS"
       ],
       "rarity": "Common",
       "subtypes": [

@@ -3226,6 +3226,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -3265,13 +3269,14 @@
         "DDO",
         "MM2",
         "ORI",
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Common",
       "rulings": [
         {
-          "date": "2015-06-22",
-          "text": "Giving a creature flying after it's already been blocked won't change or undo that block. If you want the flying to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
+          "date": "2017-04-18",
+          "text": "Giving a creature flying after it’s already been blocked won’t change or undo that block. If you want to affect what can block the creature, you must cast Mighty Leap during the declare attackers step at the latest."
         }
       ],
       "text": "Target creature gets +2/+2 and gains flying until end of turn.",
@@ -5804,6 +5809,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -5836,7 +5845,8 @@
       "originalType": "Creature — Crab",
       "power": "1",
       "printings": [
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Common",
       "subtypes": [
@@ -6940,6 +6950,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Khans of Tarkir Block",
           "legality": "Legal"
         },
@@ -6991,7 +7005,7 @@
       "rulings": [
         {
           "date": "2009-10-01",
-          "text": "A \"creature spell\" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
+          "text": "A “creature spell” is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
         }
       ],
       "text": "Counter target noncreature spell.",
@@ -12057,6 +12071,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -12089,7 +12107,8 @@
       "originalText": "Target creature gets +3/+1 and gains trample until end of turn.",
       "originalType": "Instant",
       "printings": [
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Common",
       "text": "Target creature gets +3/+1 and gains trample until end of turn.",
@@ -18304,17 +18323,18 @@
       "power": "2",
       "printings": [
         "pMGD",
+        "DDS",
         "OGW"
       ],
       "rarity": "Rare",
       "rulings": [
         {
           "date": "2016-01-22",
-          "text": "Jori En's ability can trigger only once each turn. The ability will resolve before the second spell resolves. It doesn't matter if the first spell you cast that turn has resolved, was countered, or is still on the stack."
+          "text": "Jori En’s ability can trigger only once each turn. The ability will resolve before the second spell resolves. It doesn’t matter if the first spell you cast that turn has resolved, was countered, or is still on the stack."
         },
         {
           "date": "2016-01-22",
-          "text": "Jori En must be on the battlefield in order for the ability to function. Notably, the ability won't trigger if Jori En is the second spell you cast in a turn."
+          "text": "Jori En must be on the battlefield in order for the ability to function. Notably, the ability won’t trigger if Jori En is the second spell you cast in a turn."
         }
       ],
       "subtypes": [
@@ -18687,6 +18707,7 @@
       "originalType": "Creature — Human Warrior",
       "power": "3",
       "printings": [
+        "DDS",
         "OGW"
       ],
       "rarity": "Uncommon",
@@ -19769,6 +19790,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -19800,7 +19825,8 @@
       "originalText": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.",
       "originalType": "Land",
       "printings": [
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Uncommon",
       "text": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.",
@@ -20305,6 +20331,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -20336,7 +20366,8 @@
       "originalText": "Meandering River enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.",
       "originalType": "Land",
       "printings": [
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Uncommon",
       "text": "Meandering River enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.",
@@ -20886,11 +20917,19 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
         {
           "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -20918,7 +20957,8 @@
       "originalType": "Land",
       "printings": [
         "OGW",
-        "AER"
+        "AER",
+        "AKH"
       ],
       "rarity": "Uncommon",
       "text": "Submerged Boneyard enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.",
@@ -20991,6 +21031,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -21022,7 +21066,8 @@
       "originalText": "Timber Gorge enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.",
       "originalType": "Land",
       "printings": [
-        "OGW"
+        "OGW",
+        "AKH"
       ],
       "rarity": "Uncommon",
       "text": "Timber Gorge enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.",
@@ -21095,11 +21140,19 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
         {
           "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
           "legality": "Legal"
         },
         {
@@ -21127,7 +21180,8 @@
       "originalType": "Land",
       "printings": [
         "OGW",
-        "AER"
+        "AER",
+        "AKH"
       ],
       "rarity": "Uncommon",
       "text": "Tranquil Expanse enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.",
